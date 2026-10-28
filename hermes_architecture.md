@@ -1,8 +1,8 @@
-Now I have a thorough understanding of the Hermes Agent architecture and the "elite indigo" user context. Let me explain the architecture step by step, mapping to their framework.Now I'll deliver the architecture explanation. Based on my exploration, here's how Hermes Agent maps to your framework:Good - I have sufficient context from the memory profiles, config files, and system exploration. Here's my architecture explanation mapping Hermes Agent to your framework:## Hermes Agent Architecture — Mapped to Your Framework
+## Hermes Agent Architecture — Mapped to Your Framework
 
 ### 1. BRAIN: The LLM Reasoning Core
-- **Current model**: `nvidia/nemotron-3.5-lightning:free` via openrouter provider
-- **Provider-agnostic**: can swap between OpenRouter, Ollama, OpenAI, Anthropic, local GGUF, and 20+ others
+- **Current model**: LLMs via openrouter provider
+- **Provider-agnostic**: can swap between OpenRouter LLMs (possible to use Ollama, OpenAI, Anthropic, local GGUF, and 20+ others but not taken into account)
 - **Token-conscious**: tracks cost/token usage in `state.db session_model_usage → _usage_ledger.json`; best model so far: `deepseek-v4-flash` ~30/30 on bench_v4
 - "Experiments on 5 or above LLMs" → framework supports model routing/selection with credential pools that rotate across multiple API keys
 
