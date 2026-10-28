@@ -1,4 +1,4 @@
-## Hermes Agent Architecture — Mapped to Your Framework
+## Hermes Agent Architecture Framework
 
 ### 1. BRAIN: The LLM Reasoning Core
 - **Current model**: LLMs via openrouter provider
