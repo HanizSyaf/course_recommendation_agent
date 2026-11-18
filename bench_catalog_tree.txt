@@ -1,0 +1,191 @@
+Artificial Intelligence/
+  AI Awareness A Fun & Exciting Discovery Day.pdf
+  AI Foundation & Custom GPT for Engineers Course Outline.pdf
+  AI-Enhanced Root Cause Analysis for Manufacturing Excellence (2 Days) Course Outline.pdf
+  Artificial Intelligence For Human Resources Course Outline.pdf
+  Artificial Intelligence for Engineers Course Outline.pdf
+  Artificial Intelligence for Finance Course Outline.pdf
+  Artificial Intelligence in Action Course Outline.pdf
+  ChatGPT Fundamentals Course Outline.pdf
+  Course Outline - Microsoft 365 Copilot for Real Work.pdf
+  Data & AI Monetization Strategies Course Outline.pdf
+  Deep Learning Foundation with Applications in Computer Vision Course Outline.pdf
+  Deep Learning.pdf
+  Effective Prompting for Smarter Python Coding.pdf
+  GITHUB Copilot & Claude.pdf
+  GITHUB Copilot & Vibe Coding for Development.pdf
+  Generative AI for Engineers Course Outline.pdf
+  Generative AI for Finance Course Outline.pdf
+  Industry 4.0 Advanced Data Science &Data Visualization & Machine Learning with Python Course Outline.pdf
+  LLM & Agentic AI Concepts to Application Course Outline.pdf
+  Lean Manufacturing with Generative AI Applications.pdf
+  NLP  From Fundamentals to Real-World Applications Course Outline.pdf
+  Natural Language Processing in Practice.pdf
+  OpenAI API with Python Course Outline.pdf
+  Prompt Engineering for Business Course Outline.pdf
+  Prompt Engineering for Coding Assistance in Python Course Outline.pdf
+Certification/
+  Basic First Aid & CPR_AED.pdf
+  Prep-Course for CTFL - HRDF Training.pdf
+Digital Marketing/
+  Build Professional Business Website Using Wordpress- HRDF Training.pdf
+  Design Like A Pro Using Canva - HRDF Training.pdf
+  Digital Marketing Zero To Hero - HRDF Training.pdf
+  Mobile Photography Course Outline.pdf
+  Search Engine Optimizations For Business - HRDF Training.pdf
+Equipment Management/
+  Effective Implementation of Total Productive Maintenance Towards Zero Losses.pdf
+  Effective Spare Parts Cost Reduction Cost through Optimized Spares Inventory.pdf
+  Equipment Reliability & Availability Course Outline (2D).pdf
+  Programmable Logic Controllers(PLC).pdf
+  Technical Troubleshooting and Decision Making a Structured Approach to Solution.pdf
+  World Class Maintenance Management.pdf
+Food Safety/
+  FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7).pdf
+  FSSC V7 Upgrading & Key Changes.pdf
+  ISO 22002 PRP on Food Safety.pdf
+  Transition to MS 1480_2025.pdf
+IATF 16949 & Core Tools/
+  Automotive Core Tools APQP & PPAP.pdf
+  Automotive Core Tools FMEA.pdf
+  Automotive Core Tools MSA.pdf
+  Automotive Core Tools SPC.pdf
+  IATF 16949_2016 Interpretation & Application.pdf
+  Practical VDA 6.3 Process Audit Workshop (2023 Edition).pdf
+ISO Offering/
+  ISO 14001 EMS Aspect Impact.pdf
+  ISO 14001_2026 Internal Auditing.pdf
+  ISO 370012016 Awareness Training.pdf
+  ISO 45001_2018 Awareness (1 Day).pdf
+  ISO 90012015 Awareness Training.pdf
+  Mastering ISO 14001_2026 Transition.pdf
+  Risk and Opportunities Identification & Assessment For ISO 14001 EMS.pdf
+Industry 4.0/
+  Big Data Strategy.pdf
+  Data Science (Intermediate to Advanced).pdf
+  IR 4.0 Machine Connectivity.pdf
+Leadership & Management/
+  CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders.pdf
+  Influencing Without Authority Course Outline (2).pdf
+  Inspiring Leadership Excellence.pdf
+  LO Program description 12-12-22 (1).pdf
+  Leadership Development Program(2 Days).pdf
+  Leadership Development Seeds of Trust(2D).pdf
+  Leadership Gold course outline.pdf
+  Master Resilient Leadership & Overcome Obstacles Course Outline.pdf
+  Production Supervisor Development Program.pdf
+  Rise & Recharge Stress Less Achieve More.pdf
+  Situational Leadership at the Workplace Workshop.pdf
+  The Leadership Challenge Workshop Course Outline.pdf
+  The Oz Principles Building a Culture of Accountability in Technology Leadership.pdf
+  Who Moved My Cheese Course Outline.pdf
+Manufacturing & ESG/
+  Advanced ESD Course-HRDF.pdf
+  DesignofExpJMP-HRDF Training.pdf
+  ESG in Action From Awareness to Implementation.pdf
+  Grinding Practical Hands On Course Outline.pdf
+  Lean Manufacturing with Generative AI Applications.pdf
+  Semiconductor Fabrication for Assembly & ProductTest Engineers Course Outline.pdf
+Mental Health/
+  Mental Health First Aid Course Outline.pdf
+  Mental Well-Being Program (Half day).pdf
+  Workplace Wellness.pdf
+Microsoft Workshops/
+  GITHUB Copilot & Claude.pdf
+  GITHUB Copilot & Vibe Coding for Development.pdf
+  Microsoft 365 Copilot for Real Work.pdf
+  Microsoft Excel (Basic-Advanced).pdf
+  Microsoft Excel Basic to Intermediate.pdf
+  Microsoft Excel Formulas & Functions.pdf
+  Microsoft Excel Intermediate to Advanced.pdf
+  Microsoft Power Apps Workshop - HRDF Training.pdf
+  Microsoft PowerPoint 2019 Basic to Advanced.pdf
+  Microsoft Sharepoint Workshop - HRDF Training.pdf
+  VBA for Microsoft Excel.pdf
+SAP Training/
+  Introduction to SAP Business.pdf
+  SAP Crystal Report Fundamentals of Report Design.pdf
+  SAP Crystal Report for Enterprise.pdf
+  SAP Crystal Reports Business Reporting.pdf
+Sales & Motivation Programs/
+  Sales Excellence Training Program Course Outline.pdf
+  Sales Influencing and Self Motivation Program Course Outline.pdf
+  Super Sale Program - Influencing & Persuasion Skills Course Outline.pdf
+  The Winning Attitude For Employees Course Outline.pdf
+Signature Courses/
+  AI in Action for Strategic Professionals (1 Day).pdf
+  Business Intelligence Power BI.pdf
+  Course Outline - Microsoft 365 Copilot for Real Work.pdf
+  Crafting Team Excellence Connect and Create.pdf
+  Data Science with Python (Basic).pdf
+  Finding Your Colored Brain - HRDF.pdf
+  Growth Mindset_Building the Habits to Learn, Adapt & Thrive in a Changing Workplace.pdf
+  Leading Change with Impact.pdf
+  Master Workplace Wellness & Performance.pdf
+  Presenting to Influence.pdf
+  SPC Course Outline.pdf
+  Speaking Up For Progress.pdf
+  Technical Structured Problem Solving(TSPS) Course Outline.pdf
+  The Science of Humour (1 Day).pdf
+Soft Skills/
+  Business Writing for Today Workplace.pdf
+  Conference Negotiation Intelligence.pdf
+  Conference The EQ Edge Driving Engagement & High Performance.pdf
+  Constructive Conversation Giving & Receiving Feedback Course Outline.pdf
+  Constructive Leadership Lead The Team With Impact.pdf
+  Creative & Structured Problem Solving & Think Out of the Box.pdf
+  Creative Thinking & Problem Solving.pdf
+  EQ Converse to Connect Intelligently.pdf
+  Effective Communication Course Outline.pdf
+  Emotional Intelligence at Work Course Outline.pdf
+  Employees Engagement Heart & Mind Matters Course Outline.pdf
+  Fostering Team Collaboration with DISC Profiling Course Outline.pdf
+  Getting Unstuck Charting New Frontiers Course Outline.pdf
+  Growth Mindset_Building the Habits to Learn, Adapt & Thrive in a Changing Workplace.pdf
+  Influence in Action Strategies for Lasting Impact Course Outline.pdf
+  Infographic using PowerPoint.pdf
+  Leading By Listening.pdf
+  Managing Change in an Age of Disruption with LEGO SERIOUS PLAY.pdf
+  Master Workplace Wellness & Performance.pdf
+  Mindset Shift Course Outline.pdf
+  NURTURING POSITIVE ENERGY.pdf
+  Negotiating with the Devil! - HRDF Training.pdf
+  OWN The Shift Be The One Your Team Can Count On Course Outline.pdf
+  Personal Influence & Psychology of Interaction Course Outline.pdf
+  Powerful Habits ATV Course Outline.pdf
+  Powerful Habits_ Experiential Learning, Observation & Effective Coaching Outline.pdf
+  Sun Tzu Art of War.pdf
+  Unlocking Innovation Through Lego Serious Play.pdf
+  We Own It! The Accountable Frontline Manager Course Outline.pdf
+  World Class Mindset.pdf
+Team Building/
+  AI Mystery Lab.pdf
+  ATV Adventure Course Outline.pdf
+  ATV Adventure Tour(Package).pdf
+  Best Collaborative Power v5 Course Outline.pdf
+  Collaborative Excellence with Mechanical Keyboard Building (2).pdf.pdf
+  Escape Adventure Course Outline.pdf
+  Executive One Day High Impact Team Program.pdf
+  Growth Mindset - Course Outline.pdf
+  Growth Mindset 2 Course Outline.pdf
+  Gurney Mall Hunt Course Outline.pdf
+  Heritage Hunt Challenge Course Outline(Full Day) (1).pdf
+  Power Up Your Team v2 Course Outline (2).pdf
+  Power Up Your Team(Level 2) Course Outline.pdf
+  Tufting & Indoor Adventure Course Outline.pdf
+  Tufting & Indoor Adventure(Hotel) Course Outline.pdf
+Technical Skills/
+  AI-Enhanced Root Cause Analysis for Manufacturing Excellence (2 Days) Course Outline.pdf
+  Acceptance Sampling Course Outline.pdf
+  Commonality Analysis Course Outline.pdf
+  Cost Productivity Improvement.pdf
+  DOE1 Course Outline.pdf
+  DOE2 Course Outline.pdf
+  Lean Six Sigma - Green Belt Certification Course Outline.pdf
+  MSA Course Outline.pdf
+  Power BI with DAX.pdf
+  SPC Course Outline.pdf
+  Software development Improvement Concepts & Practices Course Outline.pdf
+  Stats Method Course Outline.pdf
+  Value Stream Mapping for Lean Manufacturing Excellence.pdf
+  Vital & Applied Stats 101.pdf

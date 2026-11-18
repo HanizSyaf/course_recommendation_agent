@@ -1,0 +1,168 @@
+1. ESG in Action: From Awareness to Implementation | 2 days | Two-day practical grounding in Environmental, Social and Governance practice, taking participants from ESG fundamentals through to reporting frameworks and real implementation.
+2. Powerful Habits: Experiential Learning, Observation & Effective Coaching Methodology | 1 day | One-day experiential programme on seven habits of personal effectiveness, taught through hands-on activities such as latte art and mooncake making rather than lecture.
+3. Leading By Listening |  | <no description available>
+4. Effective Spare Parts Cost Reduction Through Optimized Spares Inventory | 2 days | Two-day maintenance and inventory workshop on holding spare parts availability high while driving working capital and obsolescence down.
+5. OWN The Shift: Be The One Your Team Can Count On | 1 day | Activity-driven one-day programme for front-line operations specialists on owning their shift: communication at handover, peer accountability and shift-floor trust.
+6. CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders |  | <no description available>
+7. Microsoft 365 Copilot for Real Work | 2 days | Practical two-day workshop on using Microsoft 365 Copilot for everyday work tasks, with no AI theory and no technical prerequisites.
+8. Leadership Lessons From Who Moved My Cheese | 2 days | Change-leadership programme built on the Who Moved My Cheese parable, using experiential activities and roleplay to move leaders past the paralysis of fear during organisational transitions.
+9. Technical Structured Problem Solving (TSPS~8D) | 2 days | Two-day hands-on workshop teaching a battle-tested 8D-inspired method for finding true root causes and making technical fixes stick.
+10. Workplace Wellness (1 Day) | 1 day | One-day burnout-prevention workshop combining emotional self-management, priority setting with the Eisenhower Matrix, and practical self-care routines.
+11. ISO 14001:2015 Awareness Training | 2 days | Two-day clause-by-clause workshop on the ISO 14001:2015 Environmental Management System standard, built around hands-on exercises rather than lecture.
+12. Automotive Core Tools: SPC | 1 day | One-day introduction to Statistical Process Control per AIAG SPC 2nd Edition, covering control charts and process capability with hands-on calculation exercises.
+13. Natural Language Processing: From Fundamentals to Real-World Applications | 2 days | Hands-on two-day NLP workshop running from text preprocessing through to an end-to-end project participants build and present themselves.
+14. IATF 16949:2016 Interpretation & Application | 1 day | One-day clause-by-clause interpretation of the IATF 16949:2016 automotive quality standard, with workshops on the documented information each clause requires.
+15. Artificial Intelligence for Engineers | 2 days | Two-day applied AI programme for engineers, working from data science fundamentals to mini projects and a list of AI quick wins to take back to the plant.
+16. Inspiring Leadership Excellence: Leading From Good to Great | 2 days | Two-day leadership programme built on Colored Brain Communication and the 8 Emotional Drivers, diagnosing why teams miscommunicate and what actually motivates them beyond money.
+17. Artificial Intelligence for Finance | 2 days | Two-day applied AI programme for finance functions, running from data science fundamentals to hands-on mini projects on fraud detection, risk and forecasting.
+18. Effective Communication | 1 day | One-day workshop on speaking with clarity and brevity, building rapport quickly, and holding attention — structured around models rather than general communication advice.
+19. Grinding Practical Hands On | 1 day | One-day technical workshop on mechanical grinding, with a four-and-a-half hour supervised practical session on precision grinding technique.
+20. Programmable Logic Controllers (PLC) | 2 days | Two-day hands-on automation workshop on OMRON-based PLC training kits, ending with participants programming and troubleshooting a live conveyor system.
+21. Production Supervisor Development Program | 2 days | Two-day programme pairing people leadership with manufacturing technique: Day 1 on execution and accountability through simulation, Day 2 on Lean, problem solving and factory systems.
+22. Lean Six Sigma - Green Belt Certification |  | <no description available>
+23. ATV Adventure Tour |  | <no description available>
+24. The EQ Edge: Driving Engagement & High Performance | 1 day | Conference-format programme on emotional intelligence as a driver of employee engagement, built around personality profiling with the LPI Big 5 model.
+25. ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025) | 1 day | One-day interpretation of the ISO 22002 Prerequisite Programmes standard, walking all 17 modules from building layout through to food defence and fraud.
+26. The Winning Attitude For Employees | 2 days | Two-day personal development masterclass on reconditioning workplace mindset, built around the 7 C's of winners' conditioning and positive polarization.
+27. Industry 4.0 Advanced Data Science &Data Visualization & Machine Learning with Python |  | <no description available>
+28. 55265AC Microsoft Power Apps for End Users | 2 days | Official Microsoft 55265AC course: two instructor-led days of hands-on labs building low-code business apps, from canvas layouts to model-driven solutions.
+29. AI Mystery Lab | 7 hours | Gamified one-day AI experience built as a mystery investigation: teams work through evidence stations, an AI crisis simulation and hands-on NotebookLM prompting.
+30. Crafting Team Excellence |  | Connect-and-create team building day pairing structured team building sessions with a hands-on art session.
+31. AI-Enhanced Root Cause Analysis for Manufacturing Excellence (2 Days) | 2 days | Two-day structured RCA workshop running an iterative case study end to end, with AI tools used at each step to speed up problem structuring and cause generation.
+32. Business Writing for Today's Workplace | 1.5 days | Day-and-a-half business writing course covering everything from email etiquette to boardroom documents, with an optional follow-up coaching session two weeks later.
+33. Prompt Engineering for Business | 1 day | One-day hands-on introduction to prompt engineering for business use, from how GPT models work through to iterative refinement and responsible use.
+34. Business Intelligence: Power BI | 2 days | Two-day hands-on Power BI Desktop course taking participants from connecting raw data sources through to interactive, auto-refreshing dashboards.
+35. We Own It! The Accountable Frontline Manager | 1 day | One-day programme for frontline managers on moving from responsibility to ownership, ending in a high-pressure team simulation of real shift-floor challenges.
+36. Deep Learning Foundation with Applications in Computer Vision | 2 days | Two-day Python-based deep learning course building from image processing fundamentals up to CNNs, object detection and segmentation, with a semiconductor wafer-map use case.
+37. ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines) | 2 days | Two-day internal auditor course for the 2026 edition of ISO 14001, following ISO 19011:2026 auditing guidelines from audit planning through to nonconformity follow-up.
+38. Fostering Team Collaboration with DISC Profiling | 2 days | Two-day workshop built around a DISC behaviour assessment, using participants' own profiles to work on communication, conflict and collaboration.
+39. Mobile Photography | 1 day | One-day practical masterclass on producing professional-grade imagery with nothing but a smartphone, from composition through mobile editing.
+40. Automotive Core Tools: FMEA | 1 day | One-day masterclass on the AIAG-VDA FMEA 1st Edition standard, covering Design, Process and Monitoring FMEA end to end.
+41. World Class Mindset: Nothing Is Impossible! | 1 day | One-day experiential mindset programme for manufacturing teams, taught almost entirely through structured team challenges rather than lecture.
+42. Design Like a Pro Using Canva | 2 days | Two-day practical Canva workshop that takes marketing design in-house: logos, letterheads, social artwork, brochures and flyers without a graphic design background.
+43. Mindset Shift | 1 day | One-day leadership mindset programme taught through structured indoor activities, covering self-leadership, team psychology and building a solution-focused culture.
+44. GitHub, Copilot & Claude | 3 days | Three-day masterclass on AI-assisted software engineering, from Copilot completions through Claude Code agentic workflows, MCP servers and subagents — with governance built in from day one.
+45. DOE 2 (Factorial Experiments) | 2 days | Two-day multi-factor Design of Experiments course using JMP, covering full factorial, single replicate and fractional factorial designs with hands-on labs throughout.
+46. Microsoft Excel Formulas & Functions | 2 days | Two-day deep dive into Excel's formula engine — references, range names, the full function library and array formulas — for users who already know the basics.
+47. AI in Action for Strategic Professionals | 1 day | One-day workshop on AI for strategy work, ending with a capstone board-ready deck built from AI-extracted, citation-backed and cross-verified analysis.
+48. Sales Excellence Training Program | 2 days | Two-day sales masterclass aligning marketing and sales around a single 5-step sales flow, covering persuasion, objection handling and customer service etiquette.
+49. Creative & Structured Problem Solving & Think Out of the Box | 2 days | Two-day technical workshop introducing TRIZ (Theory of Inventive Problem Solving) alongside creative reframing tools, aimed at engineering problems that resist routine fixes.
+50. Executive One-Day High Impact Program | 1 day | One-day outdoor-and-indoor team programme built around a supervised high-ropes course, zip line and climbing wall, with structured behavioural debriefs after each challenge.
+51. Employees Engagement: Heart & Mind Matters | 2 days | Experiential engagement programme taking an inside-out approach: clear the emotional disengagement first, then rebuild motivation around mission, purpose and values.
+52. BI - SAP Crystal Report for Enterprise | 2 days | Two-day technical course covering the full SAP Crystal Reports lifecycle, from data source connection through conditional formatting to distribution via SAP BusinessObjects.
+53. Growth Mindset 2 | 7 hours | One-day activity-driven programme on reframing challenges and building a growth mindset, taught through structured indoor team exercises.
+54. Personal Influence & Psychology of Interaction | 1 day | One-day workshop on influence built on Transactional Analysis, covering assertiveness, adapting your style, and facilitating creativity in a team.
+55. AI Foundation & Custom GPT for Engineers | 1 day | One-day workshop for manufacturing engineers that ends with each team having built and tested a Custom GPT on their own departmental data.
+56. Growth Mindset Building the Habits to Learn, Adapt & Thrive in a Changing Workplace |  | <no description available>
+57. Design of Experiment Using JMP | 2 days | Two-day activity-led introduction to Design of Experiments in JMP, from full factorial design through regression analysis to a confirmation run.
+58. Creating Infographics Quickly with PowerPoint | 2 days | Two-day design workshop using PowerPoint as an infographic tool — drawing tools, merge shapes, icons and motion graphics — ending with a full infographic assignment.
+59. Technical Troubleshooting and Decision Making: A Structured Approach to Solution | 2 days | Two-day workshop pairing fault diagnosis with decision quality, covering failure classification, P-F curves, root cause analysis and lean error-proofing.
+60. Prep-Course for CTFL | 4 days | Four-day preparation course for the Certified Tester Foundation Level syllabus, combining software testing theory with hands-on practice and trainer war stories.
+61. Nurturing Positive Energy | 1 day | One-day workshop for technicians on self-awareness, self-motivation and the confidence to speak up, built from interactive activities and reflective practice.
+62. Speak Up for Progress | 1 day | One-day workshop on breaking workplace silence — why people stay quiet, when silence is the right call, and the C.R.A.V.E. formula for when it isn't.
+63. Practical VDA 6.3 Process Audit Workshop (2023 Edition) | 2 days | Two-day practical workshop on the VDA 6.3 process audit standard, walking the P1-P7 questionnaires and the 0-10 scoring system used across the German automotive supply chain.
+64. FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7) | 2 days | Two-day internal auditor training for FSSC 22000 Version 7, covering the full audit cycle from planning and evidence collection to nonconformity closure.
+65. Lean Manufacturing with Generative AI Applications | 2 days | Two-day Lean course where each classic tool — TIMWOOD, value stream mapping, 5S, Kaizen — is paired with an AI application, plus a frank module on what AI cannot do for Lean.
+66. Finding Your Colored Brain |  | Workshop built on the Colored Brain Communication Inventory, where each participant receives an official CBCI profile identifying their genetic mental processing style.
+67. Master Resilient Leadership & Overcome Obstacles |  | <no description available>
+68. Effective Implementation of Total Productive Maintenance Towards Zero Losses | 2 days | Two-day TPM masterclass centred on the Six Big Losses and OEE, working step by step through the 7-step Autonomous and Planned Maintenance models.
+69. Team Development Program | 1 day | Full-day team programme split roughly 60% indoor and 40% outdoor, pairing an outdoor obstacle journey with indoor sessions on stress signals and mindfulness.
+70. Commonality Analysis (CA) | 2 days | Two-day technical course on isolating the true cause of a defect among thousands of overlapping variables, from signal detection to baseline shift detection algorithms.
+71. Automotive Core Tools: APQP & PPAP | 1 day | One-day course on the two AIAG core tools that bookend product launch: APQP's five planning phases and the PPAP evidence pack that proves the process can deliver.
+72. Vital & Applied Stats 101 | 3 days | Three-day statistics foundation using JMP throughout, from describing single variables to relationships between variables — the prerequisite for every other statistics course in the catalog.
+73. Advanced ESD | 2 days | Two-day technical deep dive into electrostatic discharge control and ANSI ESD S20.20 compliance, ending with hands-on practice on a live production line.
+74. Situational Leadership at the Workplace Workshop | 2 days | Two-day workshop on the Situational Leadership model, practising the diagnosis of employee readiness and the four leadership styles through role play and case studies.
+75. Data Science (Intermediate to Advanced) | 5 days | Five-day technical programme split into a 2-day intermediate and 3-day advanced segment, from clean code practice through deep learning to deploying a model on a web app.
+76. Statistical Process Control (SPC) | 2 days | Two-day SPC workshop built on real factory data, with Excel-based control limit calculators participants take away and use the next day.
+77. Measurement System Analysis (MSA) | 2 days | Two-day course on proving your measurement system before you trust its data, covering bias, linearity, gauge R&R, metrology correlation and attribute MSA.
+78. Microsoft Excel Basic to Intermediate | 2 days | Two-day Excel course starting from the interface and finishing at charts, sparklines and workbook protection — Day 1 basics, Day 2 intermediate.
+79. Tufting & Indoor Adventure (Hotel) | 1 day | Indoor team day pairing creative craft sessions — textile tufting and straw bag painting — with cooperative physical challenges, run entirely in a hotel setting.
+80. Managing Strategic Teams The Sun Tzu's Way |  | Strategy programme applying Sun Tzu's Art of War alongside Blue Ocean Strategy to departmental vision setting, team discipline and market change.
+81. Mental Well-Being Program | 2 days | Half-day mental health awareness session covering common conditions, self-help strategies, and when to escalate to professional help.
+82. Power Up Your Team | 1 day | One-day team programme delivered 20% classroom and 80% experiential games, mapped to the five stages of the Team Collaboration Life Cycle.
+83. ISO 37001:2016 Awareness Training | 1 day | One-day walkthrough of the ISO 37001 Anti-Bribery Management System, clause by clause, from anti-bribery policy through due diligence to incident investigation.
+84. LLM & Agentic AI: Concepts to Application | 1 day | One-day engineer-focused course on how LLMs actually work, how to evaluate them, and a practical session building an agentic AI tool.
+85. Master Workplace Wellness & Performance | 2 days | Two-day experiential wellness programme grounded in the science of stress and energy — circadian rhythms, sleep chronotypes and the D.O.S.E. happiness hormones — ending in a 90-day action plan.
+86. Heritage Hunt Challenge | 1 day | Amazing-race style team day through George Town's Cultural Enclave — cryptic clue hunt, photo challenges and pitstop tasks — followed by indoor team challenges.
+87. Unlocking Innovation Through LEGO® SERIOUS PLAY® | 2 days | Two-day licensed LEGO® SERIOUS PLAY® workshop where teams build, share and iterate 3D models of their real business problems rather than discussing them abstractly.
+88. Employees' Self-Motivation Program – Handling Tough Times | 1 day | One-day self-motivation programme for tough periods, working on belief systems, attitude and personal accountability rather than external incentives.
+89. Introduction to SAP BusinessObjects BI Solutions | 2 days | Two-day tour of the whole SAP BusinessObjects BI suite, aimed at choosing the right reporting tool for a given need rather than mastering any single one.
+90. Constructive Conversation: Giving & Receiving Feedback | 1 day | One-day workshop on breaking the culture of silence at work: building presence, listening for the unsaid, and turning negative feedback into something usable.
+91. FSSC Upgrading & Key Changes (Version 7) | 1 day | One-day transition course covering only what changed between FSSC 22000 v6 and v7, clause by clause, with auditing tips and a gap analysis approach.
+92. ISO 9001:2015 Awareness Training | 2 days | Two-day clause-by-clause ISO 9001:2015 workshop delivered through hands-on labs — SWOT matrices, risk criteria mapping and Turtle Diagrams — rather than lecture.
+93. Equipment Reliability & Availability |  | <no description available>
+94. DOE 1 (Comparative Experiments) | 3 days | Three-day statistical foundation for Design of Experiments, working through 1-sample, 2-sample, paired, k-sample and Randomized Block comparisons with JMP and JSL scripts.
+95. Presenting to Influence |  | <no description available>
+96. Emotional Intelligence at Work | 2 days | Two-day EQ workshop built around LPI personality profiling, covering self-regulation, stress, and how to read and work with each profile in your team.
+97. Super Sales Program - Influencing And Persuasion Skills | 2 days | Two-day sales workshop focused on ethical influence and persuasion, with extensive role play and postmortem on real presentation scenarios.
+98. Search Engine Optimizations For Business | 2 days | Two-day hands-on SEO course covering keyword research, on-page and technical SEO, Google My Business and link building, worked directly on participants' own sites.
+99. Big Data Strategy & Application "Executive Masterclass" | 2 days | Two-day executive masterclass on big data strategy rather than tooling — analytics maturity, CRISP-DM, team building — ending in a prioritised list of quick-win business cases.
+100. Effective Prompting for Smarter Python Coding | 1 day | One-day hands-on workshop on prompting AI tools for Python work — generation, debugging and learning — ending with a small tool built entirely through prompt assistance.
+101. Rise & Recharge Stress Less Achieve More |  | <no description available>
+102. Prompt Engineering for Coding Assistance in Python | 1 day | One-day introductory workshop on using ChatGPT as a Python coding assistant, from conversation design through interactive debugging to a prompt-powered project.
+103. Microsoft PowerPoint 2019: Basic to Advanced | 2 days | Two-day PowerPoint course spanning the full range — from launching the app and formatting text to Master Views, animation triggers and embedded video.
+104. Generative AI for Engineering | 2 days | Two-day AI programme for engineers with no prerequisites, running from AI foundations through the data science process to engineering mini projects and a prioritised list of quick wins.
+105. Data Science with Python (Basic) | 3 days | Three-day introduction to the full data science workflow in Python, from linear algebra and statistics through ETL to deploying a model on a web application.
+106. Digital Marketing: Zero To Hero | 3 days | Three-day entry-to-intermediate digital marketing masterclass covering social, website, email and search — worked on participants' own product or service.
+107. Data & AI Monetization Strategies | 2 days | Two-day masterclass on turning data assets into revenue — data-driven culture, governance, data products and a prioritised list of monetisation use cases.
+108. Collaborative Excellence with Mechanical Keyboard Building | 1 day | Team building day where participants assemble a custom wireless mechanical keyboard in the morning and run team challenges in the afternoon — and take the keyboard home.
+109. Mastering ISO 14001:2026 Transition | 1 day | One-day transition course covering only what changed between ISO 14001:2015 and the 2026 edition, aimed at getting an existing EMS audit-ready.
+110. Power Up Your Team (Level 2) | 1 day | Follow-on to Power Up Your Team, again 20% classroom and 80% games, but built around craft-based challenges: tufting, sand art, bridge building and Eggsportation.
+111. Power BI with DAX | 3 days | Three-day deep dive into the DAX language, built around the concepts that actually trip people up: evaluation contexts, CALCULATE, iterators and many-to-many relationships.
+112. ISO 45001:2018 Awareness | 1 day | One-day awareness course on the ISO 45001 occupational health and safety standard, clause by clause, including a hands-on risk assessment workshop.
+113. Basic First Aid & CPR/AED | 2 days | Two-day certified first aid programme structured by the Malaysian Red Crescent, ending in a written, practical, oral and CPR examination.
+114. Artificial Intelligence in Action | 2 days | Two-day hands-on course on AI prompting across text, image and video, ending in an AI Art Battle and timed 'Prompting Olympics' creativity sprint.
+115. SAP Crystal Reports: Business Reporting & Report Processing Strategies | 2 days | Two-day advanced Crystal Reports masterclass covering custom functions, arrays, crosstabs, subreport architectures and multi-pass processing logic.
+116. The Science of Humour (1 Day) |  | <no description available>
+117. Semiconductor Fabrication for Assembly & Product/Test Engineers | 2 days | Two-day course connecting upstream wafer fabrication defects to the assembly and test failures they cause downstream, with video tutorials of each analysis technique.
+118. ChatGPT Fundamentals | 1 day | One-day introduction to ChatGPT for everyday office work — email, messaging, research, reporting — with a hands-on session and a certificate of completion.
+119. Constructive Leadership Lead The Team With Impact | 2 days | Two-day leadership programme built on the premise that results come through people, covering leadership identity, personality traits and constructive conversation.
+120. Value Stream Mapping for Lean Manufacturing Excellence | 2 days | Two-day VSM workshop building a current-state map from real Gemba data on Day 1, then using AI-assisted analysis to design the future state on Day 2.
+121. Leading Change with Impact | 1 day | One-day change leadership programme focused on the psychology underneath change — emotional drivers, the Need-Suck syndrome and moving the point of power.
+122. GitHub Copilot & Vibe Coding for Development | 2 days | Two-day hands-on tour of five AI coding tools — Copilot, Cursor, Windsurf, Google Antigravity and Claude Code — focused on picking the right one per task.
+123. Microsoft Excel (Basic to Advanced) | 3 days | Three-day Excel course running the full range from the interface to Pivot Tables, PowerPivot and simple macros — the longest of the catalog's Excel offerings.
+124. Leadership Development Program | 2 days | Two-day facilitated workshop on the five practices from Kouzes and Posner's The Leadership Challenge, taught through self-assessment and small-group storytelling.
+125. Leading with Impact – The 4 Core Roles | 2 days | Two-day experiential leadership workshop structured around four roles — build trust, set vision, drive execution, coach people — each with its own simulation.
+126. Natural Language Processing in Practice | 2 days | Two-day practical NLP workshop using spaCy, NLTK and Transformers, from text cleaning through BERT embeddings to a capstone end-to-end project.
+127. Sales Influencing and Self Motivation Program | 2 days | Two-day sales workshop built around the DAGGER approach — Doubt, Anger, Greed, Growth, Enthusiasm, Risk — for reading and defusing what a buyer is actually feeling.
+128. Influencing without Authority | 2 days | Two-day workshop for getting things done in matrix organisations, using stakeholder mapping, the SCARF model and interest-based negotiation rather than positional power.
+129. Microsoft Excel Intermediate to Advanced |  | <no description available>
+130. SAP Crystal Reports for Enterprise - Advanced Report Design | 2 days | Two-day advanced course for existing Crystal Reports users, covering loops, multi-value arrays, multi-pass evaluation, nested subreports and multi-lingual deployment.
+131. Mental Health First-Aid (MHFA) | 2 days | Licensed MHFA International programme adapted for Malaysia by the MMHA, accrediting participants as certified Mental Health First Aiders on full attendance and assessment.
+132. Managing Change in an Age of Disruption with LEGO® SERIOUS PLAY® | 2 days | Two-day change programme pairing the ADKAR model with LEGO® SERIOUS PLAY®, moving from individual models of disruption to a shared organisational landscape and future state.
+133. Tufting & Indoor Adventure (1 Day) | 1 day | Full-day craft-based team programme: three and a half hours of textile tufting, then sand art candle making and straw bag painting, all in a studio setting.
+134. Negotiation Intelligence (NI) | 1 day | One-day negotiation workshop combining DISC profiling with BATNA analysis and emotional control, taught through experiential role-plays.
+135. Getting Unstuck: Charting New Frontiers |  | Personal development programme on why people get stuck in work and life, structured in five parts from understanding the four situations of stuckness through to action.
+136. Leading Others | 4 days | Licensed four-day Leadership Transition Program from the Leadership Pipeline Institute, built entirely around participants' real teams rather than theoretical cases.
+137. Transition to MS 1480:2025 | 1 day | One-day transition course from MS 1480:2019 to the 2025 edition, covering the changed clauses and the new Codex-aligned CCP decision tree.
+138. Automotive Core Tools: MSA | 1 day | One-day course on the AIAG MSA 4th Edition guidelines for assessing measurement system quality, covering bias, stability, linearity and gauge R&R.
+139. Leadership Development: Seeds of Trust | 2 days | Two-day programme on the 7 Seeds of Trust, taking high-tech manufacturing managers from task focus to values-driven leadership and a written Vision Map Statement.
+140. Build Professional Business Website Using WordPress | 3 days | Three-day hands-on WordPress course taking a business site from installation through plugins, backups and speed optimisation to firewall and on-page SEO.
+141. Growth Mindset | 1 hours | Activity-led leadership programme on growth mindset and team psychology, taught through structured indoor games rather than lecture.
+142. World Class Maintenance Management | 2 days | Two-day maintenance strategy workshop covering failure patterns, OEE and MTBF benchmarking, P-F intervals, condition monitoring and CMMS dashboards.
+143. SAP Crystal Report: Fundamentals of Report Design | 2 days | Two-day foundational Crystal Reports course building reports from scratch — data connection, record selection, grouping, formulas, charts and distribution.
+144. Influence in Action: Strategies for Lasting Impact (2Days) | 2 days | Two-day programme on the science of influence, built around the six sources of influence and how to combine them to overcome entrenched resistance.
+145. AI Awareness: A Fun & Exciting Discovery Day | 2 days | Half-morning AI taster session using free tools, taking complete beginners from an AI myths quiz to a personalised AI action plan by lunchtime.
+146. Artificial Intelligence for Human Resources | 2 days | Two-day workshop applying ChatGPT to real HR work — resume screening, interview emails, development plans, turnover analysis — with a group case study to close.
+147. Leadership Gold | 2 days | Two-day programme working through the 26 leadership lessons in John Maxwell's Leadership Gold, delivered as coaching conversations rather than lecture.
+148. Be an Ideal Player of Your Team – Powered by LEGO® SERIOUS PLAY® Method | 2 days | Two-day LEGO® SERIOUS PLAY® workshop on individual accountability within a team, using Johari Window builds to surface blind spots and stress-test the team system.
+149. Generative AI for Finance |  | <no description available>
+150. EQ: Converse to Connect Intelligently | 1 day | One-day workshop on Communication Intelligence — recognising emotional triggers, adapting to social styles, and building the presence to handle hard conversations.
+151. The Leadership Challenge Workshop |  | <no description available>
+152. Software Development Improvement Concepts & Practices | 1 day | One-day workshop on improving how a development team works — SDLC best practice by phase, structured problem solving, and SCRUM ceremonies.
+153. Gurney Mall Hunt | 1 day | One-day indoor team hunt through Gurney Mall with eight checkpoint challenges, combining retail-based puzzles with hotel-based team simulations.
+154. Creative Thinking & Problem Solving | 1 day | One-day structured creativity workshop for engineers, from problem framing through SCAMPER and Design Thinking to an AI-assisted team innovation challenge.
+155. Cost Productivity Improvement | 1 day | One-day workshop on finding, quantifying and sustaining cost savings, with a classroom exercise after every module working real cost reports and business cases.
+156. Powerful Habits | 1 day | One-day programme pairing a morning ATV adventure ride at Penang ATV Eco Tour with an afternoon of indoor team challenges, framed around habit formation.
+157. Negotiating With the Devil | 2 days | Two-day negotiation workshop for difficult counterparties, built on the Negotiation Matrix and the 6 Laws of Influencing, including dirty tricks and how to handle them.
+158. Best Collaborative Power |  | <no description available>
+159. Acceptance Sampling | 1 day | One-day course on designing inspection gates that balance quality protection against inspection cost, using OC curves and JMP to compare sampling approaches.
+160. Escape Adventure | 1 day | One-day executive team programme mixing outdoor and indoor challenges, built around the S.O.U.N.D leadership and T.A.L.K.S engagement frameworks.
+161. OpenAI API with Python | 2 days | Two-day hands-on workshop building applications on the OpenAI API in Python — chatbots, content generators, image and audio processing — ending in a unified dashboard project.
+162. Microsoft® SharePoint® Modern Experience: Site Owner with Microsoft Forms & Flow | 2 days | Two-day SharePoint site owner course covering both cloud and on-premises, ending with automated workflows built from Microsoft Forms through Power Automate into SharePoint.
+163. The Oz Principles Building a Culture of Accountability in Technology Leadership |  | <no description available>
+164. Risk and Opportunities Identification & Assessment For ISO 14001 EMS | 1 day | One-day workshop on Clause 6.1.1 of ISO 14001 specifically — identifying, assessing and controlling environmental risks and opportunities, with group activity throughout.
+165. ISO 14001 EMS Aspect Impact | 1 day | Seven-hour focused workshop on environmental aspects and impacts — the cause-and-effect core of an EMS — across normal, abnormal and emergency operating conditions.
+166. Stats Method for Binomial Data | 2 days | Two-day course on the statistics of pass/fail attribute data, working from hypothesis testing through one, two and K proportion analyses in JMP/SOS.
+167. VBA for Microsoft Excel | 2 days | Two-day VBA course taking spreadsheet users from recorded macros to custom functions, error trapping and command buttons, through hands-on lab exercises.
+168. IR 4.0 Machine Connectivity & Automation Using SEMI SECS/GEMS Standards | 3 days | Three-day technical programme on SEMI SECS/GEM host-to-machine communication, with hands-on message setup and compliance testing using SScript and Mint.

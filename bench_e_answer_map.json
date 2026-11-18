@@ -1,0 +1,1237 @@
+{
+  "001": {
+    "true_title": "Effective Communication",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Effective Communication",
+      "Emotional Intelligence at Work",
+      "Fostering Team Collaboration with DISC Profiling"
+    ],
+    "accepted_true_titles": [
+      "Effective Communication"
+    ]
+  },
+  "002": {
+    "true_title": "Emotional Intelligence at Work",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Emotional Intelligence at Work",
+      "Business Writing for Today's Workplace",
+      "Effective Communication"
+    ],
+    "accepted_true_titles": [
+      "Emotional Intelligence at Work"
+    ]
+  },
+  "003": {
+    "true_title": "Creative Thinking & Problem Solving",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Creative Thinking & Problem Solving",
+      "Effective Communication",
+      "Emotional Intelligence at Work"
+    ],
+    "accepted_true_titles": [
+      "Creative Thinking & Problem Solving"
+    ]
+  },
+  "004": {
+    "true_title": "Business Writing for Today's Workplace",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Business Writing for Today's Workplace",
+      "Effective Communication",
+      "Emotional Intelligence at Work"
+    ],
+    "accepted_true_titles": [
+      "Business Writing for Today's Workplace"
+    ]
+  },
+  "005": {
+    "true_title": "Effective Communication",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Effective Communication",
+      "Fostering Team Collaboration with DISC Profiling",
+      "Negotiating With the Devil"
+    ],
+    "accepted_true_titles": [
+      "Effective Communication"
+    ],
+    "true_course_label": "Effective Communication",
+    "review_note": "Re-keyed: the stated needs are shift miscommunication and presentation communication, not negotiation."
+  },
+  "006": {
+    "true_title": "Fostering Team Collaboration with DISC Profiling",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Fostering Team Collaboration with DISC Profiling",
+      "Negotiating With the Devil",
+      "Effective Communication"
+    ],
+    "accepted_true_titles": [
+      "Fostering Team Collaboration with DISC Profiling"
+    ]
+  },
+  "007": {
+    "true_title": "Effective Communication",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Effective Communication",
+      "Emotional Intelligence at Work",
+      "Fostering Team Collaboration with DISC Profiling"
+    ],
+    "accepted_true_titles": [
+      "Effective Communication"
+    ]
+  },
+  "008": {
+    "true_title": "Emotional Intelligence at Work",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Emotional Intelligence at Work",
+      "Business Writing for Today's Workplace",
+      "Effective Communication"
+    ],
+    "accepted_true_titles": [
+      "Emotional Intelligence at Work"
+    ]
+  },
+  "009": {
+    "true_title": "Effective Communication",
+    "true_domain": "Soft Skills",
+    "top3_titles": [
+      "Effective Communication",
+      "Emotional Intelligence at Work",
+      "Creative Thinking & Problem Solving"
+    ],
+    "accepted_true_titles": [
+      "Effective Communication"
+    ],
+    "true_course_label": "Effective Communication",
+    "review_note": "Re-keyed: the email emphasizes shift miscommunication and weak presentations; Effective Communication is the most direct match."
+  },
+  "010": {
+    "true_title": "AI Foundation & Custom GPT for Engineers",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business",
+      "ChatGPT Fundamentals"
+    ],
+    "accepted_true_titles": [
+      "AI Foundation & Custom GPT for Engineers"
+    ]
+  },
+  "011": {
+    "true_title": "Prompt Engineering for Business",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "Prompt Engineering for Business",
+      "AI Foundation & Custom GPT for Engineers",
+      "Generative AI for Finance"
+    ],
+    "accepted_true_titles": [
+      "Prompt Engineering for Business"
+    ]
+  },
+  "012": {
+    "true_title": "Generative AI for Finance",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "Generative AI for Finance",
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business"
+    ],
+    "accepted_true_titles": [
+      "Generative AI for Finance"
+    ]
+  },
+  "013": {
+    "true_title": "ChatGPT Fundamentals",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "ChatGPT Fundamentals",
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business"
+    ],
+    "accepted_true_titles": [
+      "ChatGPT Fundamentals"
+    ]
+  },
+  "014": {
+    "true_title": "AI Awareness: A Fun & Exciting Discovery Day",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "AI Awareness: A Fun & Exciting Discovery Day",
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business"
+    ],
+    "accepted_true_titles": [
+      "AI Awareness: A Fun & Exciting Discovery Day"
+    ]
+  },
+  "015": {
+    "true_title": "LLM & Agentic AI: Concepts to Application",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "LLM & Agentic AI: Concepts to Application",
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business"
+    ],
+    "accepted_true_titles": [
+      "LLM & Agentic AI: Concepts to Application"
+    ]
+  },
+  "016": {
+    "true_title": "AI Foundation & Custom GPT for Engineers",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business",
+      "ChatGPT Fundamentals"
+    ],
+    "accepted_true_titles": [
+      "AI Foundation & Custom GPT for Engineers"
+    ]
+  },
+  "017": {
+    "true_title": "Prompt Engineering for Business",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "Prompt Engineering for Business",
+      "AI Foundation & Custom GPT for Engineers",
+      "Generative AI for Finance"
+    ],
+    "accepted_true_titles": [
+      "Prompt Engineering for Business"
+    ]
+  },
+  "018": {
+    "true_title": "Generative AI for Finance",
+    "true_domain": "Artificial Intelligence",
+    "top3_titles": [
+      "Generative AI for Finance",
+      "AI Foundation & Custom GPT for Engineers",
+      "Prompt Engineering for Business"
+    ],
+    "accepted_true_titles": [
+      "Generative AI for Finance"
+    ]
+  },
+  "019": {
+    "true_title": "Power Up Your Team",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Power Up Your Team",
+      "Power Up Your Team (Level 2)",
+      "Best Collaborative Power"
+    ],
+    "accepted_true_titles": [
+      "Power Up Your Team",
+      "Power Up Your Team (Level 2)"
+    ],
+    "true_course_label": "Power Up Your Team",
+    "review_note": "Accepted both base and Level 2 because the email/title and v2 filename do not uniquely resolve the version."
+  },
+  "020": {
+    "true_title": "Best Collaborative Power",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Best Collaborative Power",
+      "Power Up Your Team (Level 2)",
+      "AI Mystery Lab"
+    ],
+    "accepted_true_titles": [
+      "Best Collaborative Power"
+    ]
+  },
+  "021": {
+    "true_title": "AI Mystery Lab",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "AI Mystery Lab",
+      "Best Collaborative Power",
+      "Power Up Your Team (Level 2)"
+    ],
+    "accepted_true_titles": [
+      "AI Mystery Lab"
+    ]
+  },
+  "022": {
+    "true_title": "Heritage Hunt Challenge",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Heritage Hunt Challenge",
+      "Power Up Your Team (Level 2)",
+      "Best Collaborative Power"
+    ],
+    "accepted_true_titles": [
+      "Heritage Hunt Challenge"
+    ]
+  },
+  "023": {
+    "true_title": "Escape Adventure",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Escape Adventure",
+      "Power Up Your Team (Level 2)",
+      "Best Collaborative Power"
+    ],
+    "accepted_true_titles": [
+      "Escape Adventure"
+    ]
+  },
+  "024": {
+    "true_title": "Growth Mindset",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Growth Mindset",
+      "Growth Mindset 2",
+      "Power Up Your Team (Level 2)"
+    ],
+    "accepted_true_titles": [
+      "Growth Mindset"
+    ],
+    "true_course_label": "Growth Mindset",
+    "review_note": "Corrected the PDF-to-title crosswalk to the exact Growth Mindset catalog entry; removed a longer similarly named entry."
+  },
+  "025": {
+    "true_title": "Power Up Your Team",
+    "true_domain": "Team Building",
+    "top3_titles": [
+      "Power Up Your Team",
+      "Power Up Your Team (Level 2)",
+      "Best Collaborative Power"
+    ],
+    "accepted_true_titles": [
+      "Power Up Your Team",
+      "Power Up Your Team (Level 2)"
+    ],
+    "true_course_label": "Power Up Your Team",
+    "review_note": "Accepted both base and Level 2 because this generic team-building email does not distinguish the version."
+  },
+  "026": {
+    "true_title": "Leading Change with Impact",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "Leading Change with Impact",
+      "Influencing without Authority",
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ],
+    "accepted_true_titles": [
+      "Leading Change with Impact"
+    ]
+  },
+  "027": {
+    "true_title": "Influencing without Authority",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "Influencing without Authority",
+      "Leading Change with Impact",
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ],
+    "accepted_true_titles": [
+      "Influencing without Authority"
+    ]
+  },
+  "028": {
+    "true_title": "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders",
+      "Situational Leadership at the Workplace Workshop",
+      "Leading Change with Impact"
+    ],
+    "accepted_true_titles": [
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ]
+  },
+  "029": {
+    "true_title": "Influencing without Authority",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "Influencing without Authority",
+      "Constructive Leadership Lead The Team With Impact",
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ],
+    "accepted_true_titles": [
+      "Influencing without Authority"
+    ],
+    "true_course_label": "Influencing Without Authority",
+    "review_note": "Re-keyed to the exact course that matches the stated difficulty influencing without authority; aligned the answer-key PDF and frozen catalog title."
+  },
+  "030": {
+    "true_title": "Leading Change with Impact",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "Leading Change with Impact",
+      "Influencing without Authority",
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ],
+    "accepted_true_titles": [
+      "Leading Change with Impact"
+    ]
+  },
+  "031": {
+    "true_title": "Influencing without Authority",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "Influencing without Authority",
+      "Leading Change with Impact",
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ],
+    "accepted_true_titles": [
+      "Influencing without Authority"
+    ]
+  },
+  "032": {
+    "true_title": "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders",
+    "true_domain": "Leadership & Management",
+    "top3_titles": [
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders",
+      "Situational Leadership at the Workplace Workshop",
+      "Leading Change with Impact"
+    ],
+    "accepted_true_titles": [
+      "CREDIBLE Leadership Workshop A 2-Day Program for Company Leaders"
+    ]
+  },
+  "033": {
+    "true_title": "AI in Action for Strategic Professionals",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "AI in Action for Strategic Professionals",
+      "Finding Your Colored Brain",
+      "Presenting to Influence"
+    ],
+    "accepted_true_titles": [
+      "AI in Action for Strategic Professionals"
+    ]
+  },
+  "034": {
+    "true_title": "Finding Your Colored Brain",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "Finding Your Colored Brain",
+      "AI in Action for Strategic Professionals",
+      "Presenting to Influence"
+    ],
+    "accepted_true_titles": [
+      "Finding Your Colored Brain"
+    ]
+  },
+  "035": {
+    "true_title": "Presenting to Influence",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "Presenting to Influence",
+      "AI in Action for Strategic Professionals",
+      "Finding Your Colored Brain"
+    ],
+    "accepted_true_titles": [
+      "Presenting to Influence"
+    ]
+  },
+  "036": {
+    "true_title": "Data Science with Python (Basic)",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "Data Science with Python (Basic)",
+      "Leading Change with Impact",
+      "AI in Action for Strategic Professionals"
+    ],
+    "accepted_true_titles": [
+      "Data Science with Python (Basic)"
+    ]
+  },
+  "037": {
+    "true_title": "AI in Action for Strategic Professionals",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "AI in Action for Strategic Professionals",
+      "Finding Your Colored Brain",
+      "Presenting to Influence"
+    ],
+    "accepted_true_titles": [
+      "AI in Action for Strategic Professionals"
+    ]
+  },
+  "038": {
+    "true_title": "Finding Your Colored Brain",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "Finding Your Colored Brain",
+      "AI in Action for Strategic Professionals",
+      "Presenting to Influence"
+    ],
+    "accepted_true_titles": [
+      "Finding Your Colored Brain"
+    ]
+  },
+  "039": {
+    "true_title": "Presenting to Influence",
+    "true_domain": "Signature Courses",
+    "top3_titles": [
+      "Presenting to Influence",
+      "AI in Action for Strategic Professionals",
+      "Finding Your Colored Brain"
+    ],
+    "accepted_true_titles": [
+      "Presenting to Influence"
+    ]
+  },
+  "040": {
+    "true_title": "Lean Six Sigma - Green Belt Certification",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Lean Six Sigma - Green Belt Certification",
+      "Value Stream Mapping for Lean Manufacturing Excellence",
+      "Statistical Process Control (SPC)"
+    ],
+    "accepted_true_titles": [
+      "Lean Six Sigma - Green Belt Certification"
+    ]
+  },
+  "041": {
+    "true_title": "Statistical Process Control (SPC)",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Statistical Process Control (SPC)",
+      "Lean Six Sigma - Green Belt Certification",
+      "Measurement System Analysis (MSA)"
+    ],
+    "accepted_true_titles": [
+      "Statistical Process Control (SPC)"
+    ]
+  },
+  "042": {
+    "true_title": "Measurement System Analysis (MSA)",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Measurement System Analysis (MSA)",
+      "Lean Six Sigma - Green Belt Certification",
+      "Statistical Process Control (SPC)"
+    ],
+    "accepted_true_titles": [
+      "Measurement System Analysis (MSA)"
+    ]
+  },
+  "043": {
+    "true_title": "DOE 1 (Comparative Experiments)",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "DOE 1 (Comparative Experiments)",
+      "Lean Six Sigma - Green Belt Certification",
+      "Statistical Process Control (SPC)"
+    ],
+    "accepted_true_titles": [
+      "DOE 1 (Comparative Experiments)"
+    ],
+    "true_course_label": "DOE",
+    "review_note": "Corrected the crosswalk: the answer-key filename is DOE1, not DOE2."
+  },
+  "044": {
+    "true_title": "Value Stream Mapping for Lean Manufacturing Excellence",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Value Stream Mapping for Lean Manufacturing Excellence",
+      "Lean Six Sigma - Green Belt Certification",
+      "Statistical Process Control (SPC)"
+    ],
+    "accepted_true_titles": [
+      "Value Stream Mapping for Lean Manufacturing Excellence"
+    ]
+  },
+  "045": {
+    "true_title": "Statistical Process Control (SPC)",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Statistical Process Control (SPC)",
+      "Lean Six Sigma - Green Belt Certification",
+      "Measurement System Analysis (MSA)"
+    ],
+    "accepted_true_titles": [
+      "Statistical Process Control (SPC)",
+      "Lean Six Sigma - Green Belt Certification"
+    ],
+    "true_course_label": "SPC",
+    "review_note": "Re-keyed to SPC for the stated defect-variation/statistical-control need; Lean Six Sigma remains an accepted alternative."
+  },
+  "046": {
+    "true_title": "Lean Six Sigma - Green Belt Certification",
+    "true_domain": "Technical Skills",
+    "top3_titles": [
+      "Lean Six Sigma - Green Belt Certification",
+      "Value Stream Mapping for Lean Manufacturing Excellence",
+      "Statistical Process Control (SPC)"
+    ],
+    "accepted_true_titles": [
+      "Lean Six Sigma - Green Belt Certification"
+    ]
+  },
+  "047": {
+    "true_title": "Microsoft Excel Intermediate to Advanced",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "Microsoft Excel Intermediate to Advanced",
+      "VBA for Microsoft Excel",
+      "55265AC Microsoft Power Apps for End Users"
+    ],
+    "accepted_true_titles": [
+      "Microsoft Excel Intermediate to Advanced"
+    ]
+  },
+  "048": {
+    "true_title": "55265AC Microsoft Power Apps for End Users",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "55265AC Microsoft Power Apps for End Users",
+      "VBA for Microsoft Excel",
+      "Microsoft Excel Intermediate to Advanced"
+    ],
+    "accepted_true_titles": [
+      "55265AC Microsoft Power Apps for End Users"
+    ]
+  },
+  "049": {
+    "true_title": "Microsoft® SharePoint® Modern Experience: Site Owner with Microsoft Forms & Flow",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "Microsoft® SharePoint® Modern Experience: Site Owner with Microsoft Forms & Flow",
+      "55265AC Microsoft Power Apps for End Users",
+      "Microsoft Excel Intermediate to Advanced"
+    ],
+    "accepted_true_titles": [
+      "Microsoft® SharePoint® Modern Experience: Site Owner with Microsoft Forms & Flow"
+    ],
+    "true_course_label": "Microsoft SharePoint Workshop",
+    "review_note": "Corrected the crosswalk: the PDF is the SharePoint workshop; it had been mapped to VBA for Excel."
+  },
+  "050": {
+    "true_title": "Microsoft 365 Copilot for Real Work",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "Microsoft 365 Copilot for Real Work",
+      "55265AC Microsoft Power Apps for End Users",
+      "VBA for Microsoft Excel"
+    ],
+    "accepted_true_titles": [
+      "Microsoft 365 Copilot for Real Work"
+    ]
+  },
+  "051": {
+    "true_title": "VBA for Microsoft Excel",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "VBA for Microsoft Excel",
+      "Microsoft Excel Intermediate to Advanced",
+      "Microsoft 365 Copilot for Real Work"
+    ],
+    "accepted_true_titles": [
+      "VBA for Microsoft Excel"
+    ]
+  },
+  "052": {
+    "true_title": "Microsoft Excel Intermediate to Advanced",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "Microsoft Excel Intermediate to Advanced",
+      "VBA for Microsoft Excel",
+      "55265AC Microsoft Power Apps for End Users"
+    ],
+    "accepted_true_titles": [
+      "Microsoft Excel Intermediate to Advanced"
+    ]
+  },
+  "053": {
+    "true_title": "55265AC Microsoft Power Apps for End Users",
+    "true_domain": "Microsoft Workshops",
+    "top3_titles": [
+      "55265AC Microsoft Power Apps for End Users",
+      "VBA for Microsoft Excel",
+      "Microsoft Excel Intermediate to Advanced"
+    ],
+    "accepted_true_titles": [
+      "55265AC Microsoft Power Apps for End Users"
+    ]
+  },
+  "054": {
+    "true_title": "ISO 14001 EMS Aspect Impact",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+      "ISO 9001:2015 Awareness Training"
+    ],
+    "accepted_true_titles": [
+      "ISO 14001 EMS Aspect Impact"
+    ]
+  },
+  "055": {
+    "true_title": "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 9001:2015 Awareness Training"
+    ],
+    "accepted_true_titles": [
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)"
+    ]
+  },
+  "056": {
+    "true_title": "ISO 9001:2015 Awareness Training",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 9001:2015 Awareness Training",
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)"
+    ],
+    "accepted_true_titles": [
+      "ISO 9001:2015 Awareness Training"
+    ]
+  },
+  "057": {
+    "true_title": "ISO 14001 EMS Aspect Impact",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+      "ISO 9001:2015 Awareness Training"
+    ],
+    "accepted_true_titles": [
+      "ISO 14001 EMS Aspect Impact"
+    ]
+  },
+  "058": {
+    "true_title": "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 9001:2015 Awareness Training"
+    ],
+    "accepted_true_titles": [
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)"
+    ]
+  },
+  "059": {
+    "true_title": "ISO 14001 EMS Aspect Impact",
+    "true_domain": "ISO Offering",
+    "top3_titles": [
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)",
+      "ISO 9001:2015 Awareness Training"
+    ],
+    "accepted_true_titles": [
+      "ISO 14001 EMS Aspect Impact",
+      "ISO 14001:2026 Internal Auditing (Based on 19011:2026 Guidelines)"
+    ],
+    "true_course_label": "ISO 14001 EMS Aspect Impact",
+    "review_note": "Re-keyed to the explicit aspect-impact gap; ISO 14001 internal auditing is accepted for the stated surveillance-audit need."
+  },
+  "060": {
+    "true_title": "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+    "true_domain": "Equipment Management",
+    "top3_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+      "World Class Maintenance Management",
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory"
+    ],
+    "accepted_true_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses"
+    ]
+  },
+  "061": {
+    "true_title": "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory",
+    "true_domain": "Equipment Management",
+    "top3_titles": [
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory",
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+      "World Class Maintenance Management"
+    ],
+    "accepted_true_titles": [
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory"
+    ]
+  },
+  "062": {
+    "true_title": "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+    "true_domain": "Equipment Management",
+    "top3_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+      "World Class Maintenance Management",
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory"
+    ],
+    "accepted_true_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses"
+    ]
+  },
+  "063": {
+    "true_title": "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory",
+    "true_domain": "Equipment Management",
+    "top3_titles": [
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory",
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+      "World Class Maintenance Management"
+    ],
+    "accepted_true_titles": [
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory"
+    ]
+  },
+  "064": {
+    "true_title": "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+    "true_domain": "Equipment Management",
+    "top3_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses",
+      "World Class Maintenance Management",
+      "Effective Spare Parts Cost Reduction Through Optimized Spares Inventory"
+    ],
+    "accepted_true_titles": [
+      "Effective Implementation of Total Productive Maintenance Towards Zero Losses"
+    ]
+  },
+  "065": {
+    "true_title": "ESG in Action: From Awareness to Implementation",
+    "true_domain": "Manufacturing & ESG",
+    "top3_titles": [
+      "ESG in Action: From Awareness to Implementation",
+      "Advanced ESD",
+      "Design of Experiment Using JMP"
+    ],
+    "accepted_true_titles": [
+      "ESG in Action: From Awareness to Implementation",
+      "Advanced ESD"
+    ],
+    "review_note": "Multi-accepted: the email explicitly asks about both ESG questionnaires and ESD failures."
+  },
+  "066": {
+    "true_title": "Advanced ESD",
+    "true_domain": "Manufacturing & ESG",
+    "top3_titles": [
+      "Advanced ESD",
+      "ESG in Action: From Awareness to Implementation",
+      "Design of Experiment Using JMP"
+    ],
+    "accepted_true_titles": [
+      "Advanced ESD"
+    ]
+  },
+  "067": {
+    "true_title": "Design of Experiment Using JMP",
+    "true_domain": "Manufacturing & ESG",
+    "top3_titles": [
+      "Design of Experiment Using JMP",
+      "ESG in Action: From Awareness to Implementation",
+      "Advanced ESD"
+    ],
+    "accepted_true_titles": [
+      "Design of Experiment Using JMP"
+    ]
+  },
+  "068": {
+    "true_title": "ESG in Action: From Awareness to Implementation",
+    "true_domain": "Manufacturing & ESG",
+    "top3_titles": [
+      "ESG in Action: From Awareness to Implementation",
+      "Advanced ESD",
+      "Design of Experiment Using JMP"
+    ],
+    "accepted_true_titles": [
+      "ESG in Action: From Awareness to Implementation"
+    ]
+  },
+  "069": {
+    "true_title": "Advanced ESD",
+    "true_domain": "Manufacturing & ESG",
+    "top3_titles": [
+      "Advanced ESD",
+      "ESG in Action: From Awareness to Implementation",
+      "Design of Experiment Using JMP"
+    ],
+    "accepted_true_titles": [
+      "Advanced ESD",
+      "ESG in Action: From Awareness to Implementation"
+    ],
+    "review_note": "Multi-accepted: the email explicitly asks about both ESG questionnaires and ESD failures; the single-answer distinction from ID 065 was unsupported."
+  },
+  "070": {
+    "true_title": "Automotive Core Tools: APQP & PPAP",
+    "true_domain": "IATF 16949 & Core Tools",
+    "top3_titles": [
+      "Automotive Core Tools: APQP & PPAP",
+      "Automotive Core Tools: FMEA",
+      "Automotive Core Tools: MSA"
+    ],
+    "accepted_true_titles": [
+      "Automotive Core Tools: APQP & PPAP"
+    ]
+  },
+  "071": {
+    "true_title": "Automotive Core Tools: FMEA",
+    "true_domain": "IATF 16949 & Core Tools",
+    "top3_titles": [
+      "Automotive Core Tools: FMEA",
+      "Automotive Core Tools: APQP & PPAP",
+      "Automotive Core Tools: MSA"
+    ],
+    "accepted_true_titles": [
+      "Automotive Core Tools: FMEA"
+    ]
+  },
+  "072": {
+    "true_title": "Automotive Core Tools: APQP & PPAP",
+    "true_domain": "IATF 16949 & Core Tools",
+    "top3_titles": [
+      "Automotive Core Tools: APQP & PPAP",
+      "Automotive Core Tools: FMEA",
+      "Automotive Core Tools: MSA"
+    ],
+    "accepted_true_titles": [
+      "Automotive Core Tools: APQP & PPAP"
+    ]
+  },
+  "073": {
+    "true_title": "Automotive Core Tools: FMEA",
+    "true_domain": "IATF 16949 & Core Tools",
+    "top3_titles": [
+      "Automotive Core Tools: FMEA",
+      "Automotive Core Tools: APQP & PPAP",
+      "Automotive Core Tools: MSA"
+    ],
+    "accepted_true_titles": [
+      "Automotive Core Tools: FMEA"
+    ]
+  },
+  "074": {
+    "true_title": "Automotive Core Tools: APQP & PPAP",
+    "true_domain": "IATF 16949 & Core Tools",
+    "top3_titles": [
+      "Automotive Core Tools: APQP & PPAP",
+      "Automotive Core Tools: FMEA",
+      "Automotive Core Tools: MSA"
+    ],
+    "accepted_true_titles": [
+      "Automotive Core Tools: APQP & PPAP"
+    ]
+  },
+  "075": {
+    "true_title": "Build Professional Business Website Using WordPress",
+    "true_domain": "Digital Marketing",
+    "top3_titles": [
+      "Build Professional Business Website Using WordPress",
+      "Design Like a Pro Using Canva",
+      "Digital Marketing: Zero To Hero"
+    ],
+    "accepted_true_titles": [
+      "Build Professional Business Website Using WordPress"
+    ]
+  },
+  "076": {
+    "true_title": "Design Like a Pro Using Canva",
+    "true_domain": "Digital Marketing",
+    "top3_titles": [
+      "Design Like a Pro Using Canva",
+      "Build Professional Business Website Using WordPress",
+      "Digital Marketing: Zero To Hero"
+    ],
+    "accepted_true_titles": [
+      "Design Like a Pro Using Canva"
+    ]
+  },
+  "077": {
+    "true_title": "Build Professional Business Website Using WordPress",
+    "true_domain": "Digital Marketing",
+    "top3_titles": [
+      "Build Professional Business Website Using WordPress",
+      "Design Like a Pro Using Canva",
+      "Digital Marketing: Zero To Hero"
+    ],
+    "accepted_true_titles": [
+      "Build Professional Business Website Using WordPress"
+    ]
+  },
+  "078": {
+    "true_title": "Design Like a Pro Using Canva",
+    "true_domain": "Digital Marketing",
+    "top3_titles": [
+      "Design Like a Pro Using Canva",
+      "Build Professional Business Website Using WordPress",
+      "Digital Marketing: Zero To Hero"
+    ],
+    "accepted_true_titles": [
+      "Design Like a Pro Using Canva"
+    ]
+  },
+  "079": {
+    "true_title": "Build Professional Business Website Using WordPress",
+    "true_domain": "Digital Marketing",
+    "top3_titles": [
+      "Build Professional Business Website Using WordPress",
+      "Design Like a Pro Using Canva",
+      "Digital Marketing: Zero To Hero"
+    ],
+    "accepted_true_titles": [
+      "Build Professional Business Website Using WordPress"
+    ]
+  },
+  "080": {
+    "true_title": "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+    "true_domain": "Food Safety",
+    "top3_titles": [
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+      "FSSC Upgrading & Key Changes (Version 7)",
+      "ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025)"
+    ],
+    "accepted_true_titles": [
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)"
+    ]
+  },
+  "081": {
+    "true_title": "FSSC Upgrading & Key Changes (Version 7)",
+    "true_domain": "Food Safety",
+    "top3_titles": [
+      "FSSC Upgrading & Key Changes (Version 7)",
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+      "ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025)"
+    ],
+    "accepted_true_titles": [
+      "FSSC Upgrading & Key Changes (Version 7)"
+    ]
+  },
+  "082": {
+    "true_title": "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+    "true_domain": "Food Safety",
+    "top3_titles": [
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+      "FSSC Upgrading & Key Changes (Version 7)",
+      "ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025)"
+    ],
+    "accepted_true_titles": [
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)"
+    ]
+  },
+  "083": {
+    "true_title": "FSSC Upgrading & Key Changes (Version 7)",
+    "true_domain": "Food Safety",
+    "top3_titles": [
+      "FSSC Upgrading & Key Changes (Version 7)",
+      "FSSC 22000 Internal Audit Training (Based on ISO 22002-1&100 and Version 7)",
+      "ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025)"
+    ],
+    "accepted_true_titles": [
+      "FSSC Upgrading & Key Changes (Version 7)"
+    ]
+  },
+  "084": {
+    "true_title": "Introduction to SAP BusinessObjects BI Solutions",
+    "true_domain": "SAP Training",
+    "top3_titles": [
+      "Introduction to SAP BusinessObjects BI Solutions",
+      "SAP Crystal Reports for Enterprise - Advanced Report Design",
+      "SAP Crystal Reports: Business Reporting & Report Processing Strategies"
+    ],
+    "accepted_true_titles": [
+      "Introduction to SAP BusinessObjects BI Solutions"
+    ]
+  },
+  "085": {
+    "true_title": "BI - SAP Crystal Report for Enterprise",
+    "true_domain": "SAP Training",
+    "top3_titles": [
+      "BI - SAP Crystal Report for Enterprise",
+      "SAP Crystal Reports: Business Reporting & Report Processing Strategies",
+      "Introduction to SAP BusinessObjects BI Solutions"
+    ],
+    "accepted_true_titles": [
+      "BI - SAP Crystal Report for Enterprise"
+    ],
+    "true_course_label": "BI - SAP Crystal Report for Enterprise",
+    "review_note": "Corrected the crosswalk to the exact catalog course named by the True Course/PDF; the old map substituted an Advanced Report Design course."
+  },
+  "086": {
+    "true_title": "Introduction to SAP BusinessObjects BI Solutions",
+    "true_domain": "SAP Training",
+    "top3_titles": [
+      "Introduction to SAP BusinessObjects BI Solutions",
+      "SAP Crystal Reports for Enterprise - Advanced Report Design",
+      "SAP Crystal Reports: Business Reporting & Report Processing Strategies"
+    ],
+    "accepted_true_titles": [
+      "Introduction to SAP BusinessObjects BI Solutions"
+    ]
+  },
+  "087": {
+    "true_title": "BI - SAP Crystal Report for Enterprise",
+    "true_domain": "SAP Training",
+    "top3_titles": [
+      "BI - SAP Crystal Report for Enterprise",
+      "SAP Crystal Reports: Business Reporting & Report Processing Strategies",
+      "Introduction to SAP BusinessObjects BI Solutions"
+    ],
+    "accepted_true_titles": [
+      "BI - SAP Crystal Report for Enterprise"
+    ],
+    "true_course_label": "BI - SAP Crystal Report for Enterprise",
+    "review_note": "Corrected the crosswalk to the exact catalog course named by the True Course/PDF; the old map substituted an Advanced Report Design course."
+  },
+  "088": {
+    "true_title": "Sales Excellence Training Program",
+    "true_domain": "Sales & Motivation Programs",
+    "top3_titles": [
+      "Sales Excellence Training Program",
+      "Sales Influencing and Self Motivation Program",
+      "Super Sales Program - Influencing And Persuasion Skills"
+    ],
+    "accepted_true_titles": [
+      "Sales Excellence Training Program"
+    ]
+  },
+  "089": {
+    "true_title": "Sales Influencing and Self Motivation Program",
+    "true_domain": "Sales & Motivation Programs",
+    "top3_titles": [
+      "Sales Influencing and Self Motivation Program",
+      "Super Sales Program - Influencing And Persuasion Skills",
+      "Sales Excellence Training Program"
+    ],
+    "accepted_true_titles": [
+      "Sales Influencing and Self Motivation Program"
+    ]
+  },
+  "090": {
+    "true_title": "Sales Excellence Training Program",
+    "true_domain": "Sales & Motivation Programs",
+    "top3_titles": [
+      "Sales Excellence Training Program",
+      "Sales Influencing and Self Motivation Program",
+      "Super Sales Program - Influencing And Persuasion Skills"
+    ],
+    "accepted_true_titles": [
+      "Sales Excellence Training Program"
+    ]
+  },
+  "091": {
+    "true_title": "Sales Influencing and Self Motivation Program",
+    "true_domain": "Sales & Motivation Programs",
+    "top3_titles": [
+      "Sales Influencing and Self Motivation Program",
+      "Super Sales Program - Influencing And Persuasion Skills",
+      "Sales Excellence Training Program"
+    ],
+    "accepted_true_titles": [
+      "Sales Influencing and Self Motivation Program"
+    ]
+  },
+  "092": {
+    "true_title": "Mental Health First-Aid (MHFA)",
+    "true_domain": "Mental Health",
+    "top3_titles": [
+      "Mental Health First-Aid (MHFA)",
+      "Mental Well-Being Program",
+      "Workplace Wellness (1 Day)"
+    ],
+    "accepted_true_titles": [
+      "Mental Health First-Aid (MHFA)"
+    ]
+  },
+  "093": {
+    "true_title": "Mental Well-Being Program",
+    "true_domain": "Mental Health",
+    "top3_titles": [
+      "Mental Well-Being Program",
+      "Mental Health First-Aid (MHFA)",
+      "Workplace Wellness (1 Day)"
+    ],
+    "accepted_true_titles": [
+      "Mental Well-Being Program"
+    ]
+  },
+  "094": {
+    "true_title": "Mental Health First-Aid (MHFA)",
+    "true_domain": "Mental Health",
+    "top3_titles": [
+      "Mental Health First-Aid (MHFA)",
+      "Mental Well-Being Program",
+      "Workplace Wellness (1 Day)"
+    ],
+    "accepted_true_titles": [
+      "Mental Health First-Aid (MHFA)"
+    ]
+  },
+  "095": {
+    "true_title": "Mental Well-Being Program",
+    "true_domain": "Mental Health",
+    "top3_titles": [
+      "Mental Well-Being Program",
+      "Mental Health First-Aid (MHFA)",
+      "Workplace Wellness (1 Day)"
+    ],
+    "accepted_true_titles": [
+      "Mental Well-Being Program"
+    ]
+  },
+  "096": {
+    "true_title": "Big Data Strategy & Application \"Executive Masterclass\"",
+    "true_domain": "Industry 4.0",
+    "top3_titles": [
+      "Big Data Strategy & Application \"Executive Masterclass\"",
+      "Data Science (Intermediate to Advanced)",
+      "IR 4.0 Machine Connectivity & Automation Using SEMI SECS/GEMS Standards"
+    ],
+    "accepted_true_titles": [
+      "Big Data Strategy & Application \"Executive Masterclass\""
+    ]
+  },
+  "097": {
+    "true_title": "Business Intelligence: Power BI",
+    "true_domain": "Industry 4.0",
+    "top3_titles": [
+      "Business Intelligence: Power BI",
+      "Big Data Strategy & Application \"Executive Masterclass\"",
+      "Data Science (Intermediate to Advanced)"
+    ],
+    "accepted_true_titles": [
+      "Business Intelligence: Power BI",
+      "Big Data Strategy & Application \"Executive Masterclass\""
+    ],
+    "true_course_label": "Business Intelligence: Power BI",
+    "review_note": "Re-keyed to dashboard/reporting strategy; the frozen catalog describes Power BI as building interactive dashboards and Big Data Strategy as an accepted strategic alternative."
+  },
+  "098": {
+    "true_title": "Big Data Strategy & Application \"Executive Masterclass\"",
+    "true_domain": "Industry 4.0",
+    "top3_titles": [
+      "Big Data Strategy & Application \"Executive Masterclass\"",
+      "Data Science (Intermediate to Advanced)",
+      "IR 4.0 Machine Connectivity & Automation Using SEMI SECS/GEMS Standards"
+    ],
+    "accepted_true_titles": [
+      "Big Data Strategy & Application \"Executive Masterclass\""
+    ]
+  },
+  "099": {
+    "true_title": "Basic First Aid & CPR/AED",
+    "true_domain": "Certification",
+    "top3_titles": [
+      "Basic First Aid & CPR/AED",
+      "Prep-Course for CTFL"
+    ],
+    "accepted_true_titles": [
+      "Basic First Aid & CPR/AED"
+    ],
+    "review_note": "Removed the duplicate Basic First Aid candidate; only two distinct certification candidates are present in this key."
+  },
+  "100": {
+    "true_title": "Prep-Course for CTFL",
+    "true_domain": "Certification",
+    "top3_titles": [
+      "Prep-Course for CTFL",
+      "Basic First Aid & CPR/AED"
+    ],
+    "accepted_true_titles": [
+      "Prep-Course for CTFL"
+    ],
+    "review_note": "Removed the duplicate Basic First Aid candidate; only two distinct certification candidates are present in this key."
+  }
+}

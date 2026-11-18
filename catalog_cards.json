@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "course_id": "c-0110cd2cb7",
     "title": "ESG in Action: From Awareness to Implementation",
@@ -57,7 +57,6 @@
       "Soft Skills"
     ],
     "one_line_pitch": null,
-    "path": "https://files.eliteindigo.com/Recommended%20Courses/Leading%20By%20Listening.pdf",
     "audience": null,
     "audience_source": null,
     "key_topics": [],
@@ -65,7 +64,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-0506f7cd09",
@@ -126,7 +125,6 @@
       "Leadership & Management"
     ],
     "one_line_pitch": null,
-    "path": "https://files.eliteindigo.com/Leadership_Courses/CREDIBLE%20Leadership%20Workshop%20A%202-Day%20Program%20for%20Company%20Leaders.pdf",
     "audience": null,
     "audience_source": null,
     "key_topics": [],
@@ -134,7 +132,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-0a3d35bf49",
@@ -541,7 +539,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-2319aa97e3",
@@ -557,7 +555,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-2636c0fecc",
@@ -587,7 +585,7 @@
   },
   {
     "course_id": "c-270a07181c",
-    "title": "ISO 22002 PRP on Food Safety",
+    "title": "ISO 22002 PRP on Food Safety (Based on ISO 22002-100 & ISO 22002-1:2025)",
     "category_tags": [
       "Food Safety"
     ],
@@ -650,7 +648,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-2ad80a0cf0",
@@ -726,7 +724,7 @@
     ],
     "format": "workshop",
     "duration": null,
-    "note": "Thin source: the brochure is an agenda only (7.30am registration to 4.30pm wrap-up, so effectively a full day) with no program overview or learning objectives. Topics and outcomes are drawn from the agenda alone and should be confirmed with the business before use."
+    "note": "Thin source: the brochure is an agenda only (7.30am registration to 4.30pm wrap-up, so effectively a full day) with no program overview or learning objectives. Topics and outcomes are drawn from the agenda alone and should be confirmed with the provider before use."
   },
   {
     "course_id": "c-2d59b2137b",
@@ -1397,7 +1395,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-4a1aeb9eee",
@@ -1660,7 +1658,7 @@
     ],
     "format": "workshop",
     "duration": null,
-    "note": "Duration is not stated anywhere in the source brochure (flagged duration_missing in facts_table.json); the deck refers to a 'Day 1 Overview' with four modules, so it is at least one day. Confirm before quoting a length."
+    "note": "Duration is not stated anywhere in the source brochure; the deck refers to a 'Day 1 Overview' with four modules, so it is at least one day. Confirm before quoting a length."
   },
   {
     "course_id": "c-56a44e8300",
@@ -1676,7 +1674,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-573f77fc5c",
@@ -2019,7 +2017,7 @@
     ],
     "format": "workshop",
     "duration": null,
-    "note": "The source states 'A TWO (2) Days' programme duration, but the label sits in a scrambled multi-column layout that the extractor could not attach to a duration field, so facts_table.json has no duration (flagged duration_missing). Treat 2 days as likely but confirm."
+    "note": "The source states 'A TWO (2) Days' programme duration, but the label sits in a scrambled multi-column layout that the extractor could not attach to a duration field, so no duration is recorded. Treat 2 days as likely but confirm with the provider."
   },
   {
     "course_id": "c-671b25ebd5",
@@ -2046,7 +2044,7 @@
     ],
     "format": "workshop",
     "duration": "2 days",
-    "note": "DURATION IS WRONG AND CANNOT BE FIXED FROM HERE. The source document is correct: its Duration field reads 'Half-Day Workshop (4 Hours Total)' and the file is named '(Half day).pdf'. build_facts_table.py's bare_day tier matched the '2' inside the cover heading's '(1/2 DAYS)' and stored 2 days. The card must match facts_table.json, so it carries the wrong value until a duration override mechanism exists -- do not quote this duration. The brochure's course outline section is also image-only, so key_topics come from the program overview and objectives."
+    "note": "Known duration error: the source document states a 'Half-Day Workshop (4 Hours Total)' (file named '(Half day).pdf'), but this card carries 2 days -- the extractor read the '2' in the cover heading '(1/2 DAYS)' as 2 days. Do not quote this duration. The brochure's course outline section is also image-only, so key topics come from the program overview and objectives."
   },
   {
     "course_id": "c-6a5f56075d",
@@ -2283,7 +2281,7 @@
     ],
     "format": "workshop",
     "duration": "1 day",
-    "note": "The brochure's Learning Objectives block is copy-pasted from a different course (it lists 'techniques golfers use to focus' and time management under pressure, which match the Heritage Hunt Challenge outdoor programme, not a feedback workshop). Outcomes here are drawn from the module content instead. Worth flagging to the business as a brochure error."
+    "note": "The brochure's Learning Objectives block is copy-pasted from a different course (it lists 'techniques golfers use to focus' and time management under pressure, which match the Heritage Hunt Challenge outdoor programme, not a feedback workshop). Outcomes here are drawn from the module content instead. This looks like a brochure error worth flagging to the provider."
   },
   {
     "course_id": "c-76a4e1558e",
@@ -2351,7 +2349,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-7f9d921aae",
@@ -2393,7 +2391,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-81e19d0455",
@@ -2475,7 +2473,7 @@
   },
   {
     "course_id": "c-84c1c9d328",
-    "title": "Big Data Strategy",
+    "title": "Big Data Strategy & Application \"Executive Masterclass\"",
     "category_tags": [
       "Industry 4.0"
     ],
@@ -2539,7 +2537,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-8b999366c1",
@@ -2919,7 +2917,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-aae0f5c905",
@@ -3182,7 +3180,7 @@
     ],
     "format": "workshop",
     "duration": "2 days",
-    "note": "The source brochure claims this training is '100% HRDF claimable' (flagged residual_hrdf_mention in facts_table.json). That claim is deliberately excluded from this card: per plan section 1 the bot must not assert claimable status, which is business config and can change."
+    "note": "The source brochure claims this training is '100% HRDF claimable' . That claim is deliberately excluded from this card: claimable status is provider configuration and can change, so it is not asserted here."
   },
   {
     "course_id": "c-b7503456bd",
@@ -3250,7 +3248,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-ba8a80dc51",
@@ -3408,7 +3406,7 @@
     ],
     "format": "workshop",
     "duration": null,
-    "note": "Thin and unstructured source. The brochure's Course Schedule section is empty and no duration is stated anywhere (flagged duration_missing). The extracted title was a truncated pull-quote ('It's not the effort that solves a'); the real title comes from the cover heading. Confirm duration and delivery with the business before quoting."
+    "note": "Thin and unstructured source. The brochure's Course Schedule section is empty and no duration is stated anywhere (duration not stated in the source). The extracted title was a truncated pull-quote ('It's not the effort that solves a'); the real title comes from the cover heading. Confirm duration and delivery with the provider before quoting."
   },
   {
     "course_id": "c-c5bad1d242",
@@ -3566,7 +3564,7 @@
     ],
     "format": "workshop",
     "duration": "1 hours",
-    "note": "DURATION IS WRONG. The source states '7 hours' for the full programme; build_facts_table.py picked up a module-level 'Duration: 1 hour' line instead. The card must match facts_table.json so it carries the wrong value -- do not quote it. This course is also one of the Growth Mindset variant family: its module list is near-identical to Mindset Shift and Growth Mindset 2, so the runtime should not shortlist more than one of them."
+    "note": "Known duration error: the source states '7 hours' for the full programme, but this card carries a module-level '1 hour' value picked up in error -- do not quote it. This course is also one of the Growth Mindset variant family: its module list is near-identical to Mindset Shift and Growth Mindset 2, so at most one of them should be shortlisted."
   },
   {
     "course_id": "c-d111c5d694",
@@ -3672,7 +3670,7 @@
     ],
     "format": "workshop",
     "duration": "2 days",
-    "note": "DURATION IS WRONG. The source says '1/2 Day (9:00 AM - 1:00 PM)' and describes a '1/2-day immersive program'; build_facts_table.py read the '1/2' as 2 days. The card must match facts_table.json so it carries the wrong value -- do not quote it. Same parsing bug as Mental Well-Being Program."
+    "note": "Known duration error: the source says '1/2 Day (9:00 AM - 1:00 PM)' and describes a '1/2-day immersive program', but this card carries 2 days ('1/2' parsed as 2) -- do not quote it. Same parsing error as the Mental Well-Being Program card."
   },
   {
     "course_id": "c-db493e8b5a",
@@ -3767,7 +3765,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-e9cb76e3c2",
@@ -3809,7 +3807,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-eb94a278e4",
@@ -3942,7 +3940,7 @@
     ],
     "format": "workshop",
     "duration": "1 day",
-    "note": "The brochure's Program Overview and Course Objectives are copy-pasted from the other Powerful Habits course (the seven-habits coaching programme) and describe Ikigai, Give & Take and coaching methodology -- none of which appear in this course's actual agenda, which is an ATV ride plus indoor team games. The card follows the agenda, not the overview. Worth flagging to the business as a brochure error."
+    "note": "The brochure's Program Overview and Course Objectives are copy-pasted from the other Powerful Habits course (the seven-habits coaching programme) and describe Ikigai, Give & Take and coaching methodology -- none of which appear in this course's actual agenda, which is an ATV ride plus indoor team games. The card follows the agenda, not the overview. This looks like a brochure error worth flagging to the provider."
   },
   {
     "course_id": "c-efb51a43b6",
@@ -3984,7 +3982,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Source PDF is a cover-only brochure: 11 words survive de-boilerplating ('BEST COLLABORATIVE POWER / Join our teambuilding today!'). There is no course content to summarise. Needs OCR/vision re-extraction or exclusion from the catalog before this course can be recommended. Flagged low_content in facts_table.json."
+    "note": "Source PDF is a cover-only brochure: 11 words survive de-boilerplating ('BEST COLLABORATIVE POWER / Join our teambuilding today!'). There is no course content to summarise. Needs OCR/vision re-extraction, or exclusion from the catalog, before this course can be recommended (low-content source)."
   },
   {
     "course_id": "c-f59c4a8afa",
@@ -4104,7 +4102,7 @@
     "format": null,
     "duration": null,
     "card_status": "insufficient_source",
-    "note": "Image-only PDF: no text layer, so there is no source text to summarise (review_flag no_text_layer). Title is filename-derived and unverified. Needs OCR/vision extraction before this course can be recommended; until then the bot should acknowledge it exists and hand off (plan section 1)."
+    "note": "Image-only PDF: no text layer, so there is no source text to summarise . Title is filename-derived and unverified; needs OCR/vision extraction before this course can be reliably recommended."
   },
   {
     "course_id": "c-fc1e23f44c",
@@ -4212,7 +4210,7 @@
   },
   {
     "course_id": "c-fdce380c26",
-    "title": "IR 4.0 Machine Connectivity",
+    "title": "IR 4.0 Machine Connectivity & Automation Using SEMI SECS/GEMS Standards",
     "category_tags": [
       "Industry 4.0"
     ],
